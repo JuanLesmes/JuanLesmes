@@ -126,12 +126,12 @@ Software Engineer. What I enjoy most is building solutions to real-life problems
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JuanLesmes&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=2dd4bf&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JuanLesmes&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=ffffff&title_color=0f766e&icon_color=0ea5e9&text_color=24292f&rank_icon=github">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanLesmes/JuanLesmes/stats/stats-dark.svg">
+    <img alt="GitHub stats" src="https://raw.githubusercontent.com/JuanLesmes/JuanLesmes/stats/stats-light.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLesmes&layout=compact&hide=tex&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLesmes&layout=compact&hide=tex&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=ffffff&title_color=0f766e&text_color=24292f">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanLesmes/JuanLesmes/stats/langs-dark.svg">
+    <img alt="Most used languages" src="https://raw.githubusercontent.com/JuanLesmes/JuanLesmes/stats/langs-light.svg">
   </picture>
 </p>
 
