@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Juan Fernando Lesmes · Backend Developer"/>
 
-# Juan Fernando Lesmes Castañeda
+# Juan Lesmes
 
 <img src="assets/foto.png" width="180" alt="Juan Fernando Lesmes"/>
 
@@ -33,7 +33,7 @@ $ curl -s https://github.com/JuanLesmes/api/about | jq
   "status": 200,
   "name": "Juan Fernando Lesmes Castañeda",
   "role": ["Software Engineer", "Software Developer"],
-  "education": "Systems Engineering · Pontificia Universidad Javeriana · 2025",
+  "education": "Software Engineer · Pontificia Universidad Javeriana · 2025",
   "based_in": "Bogotá, Colombia 🇨🇴",
   "open_to": ["backend / full-stack roles", "AI engineering"],
   "likes": ["software that solves real problems", "CR7", "Felicilandia"]
