@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,40:ffb347,75:ff3d77,100:7b2ff7&height=240&section=header&text=Juan%20Fernando%20Lesmes&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Systems%20Engineer%20%C2%B7%20Ingeniero%20de%20Sistemas%20%C2%B7%20Bogot%C3%A1%2C%20Colombia&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Juan Fernando Lesmes — Systems Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,40:ffb347,75:ff3d77,100:7b2ff7&height=170&section=header&animation=fadeIn" width="100%" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF7A18&center=true&vCenter=true&width=760&height=48&lines=Construyo+software+que+simplifica+negocios;I+build+software+that+simplifies+businesses;ERP+%C2%B7+POS+%C2%B7+Inventarios+%C2%B7+Web+apps;Python+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+Angular+%C2%B7+Next.js;Freelance+desde+2025+%C2%B7+Bogot%C3%A1%2C+Colombia" alt="Construyo software que simplifica negocios"/>
+# Juan Fernando Lesmes Castañeda
+
+<img src="assets/foto.png" width="180" alt="Foto de Juan Fernando Lesmes"/>
+
+**Ingeniero de Sistemas · Backend Developer · Bogotá, Colombia**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF7A18&center=true&vCenter=true&width=760&height=48&lines=Construyo+software+de+principio+a+fin;I+build+software+end+to+end%2C+from+problem+to+production;Soluciones+que+generan+impacto+real;POS+%C2%B7+Procesos+jur%C3%ADdicos+%C2%B7+Web+apps;Python+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+PostgreSQL" alt="Construyo software de principio a fin"/>
 
 <br/>
 
@@ -21,7 +27,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7a18,50:ff3d77,100:7b2ff7&height=3" width="100%" alt=""/>
-
 ## 🧭 Sobre mí · About me
 
 ```bash
@@ -167,7 +172,7 @@ Ingeniero de Sistemas. Lo que más me gusta es construir soluciones para problem
 
 <div align="center">
 
-<sub>Hecho con ☕ en Bogotá · <i>Made with ☕ in Bogotá</i></sub>
+<sub>Hecho con ♡ en Bogotá · <i>Made with ♡ in Bogotá</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,25:ff3d77,60:ffb347,100:ff7a18&height=120&section=footer&animation=twinkling" width="100%" alt=""/>
 
