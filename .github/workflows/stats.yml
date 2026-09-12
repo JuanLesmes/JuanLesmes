@@ -1,0 +1,33 @@
+name: 📊 Profile stats cards
+
+on:
+  schedule:
+    - cron: "30 6 * * *" 
+  workflow_dispatch:        
+  push:
+    branches: [main]   
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Generar las tarjetas
+        run: python3 .github/scripts/stats_cards.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Publicar en la rama stats
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
