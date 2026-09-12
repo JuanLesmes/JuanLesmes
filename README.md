@@ -71,43 +71,6 @@ Software Engineer. What I enjoy most is building solutions to real-life problems
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🥇 Legal case manager
-<sub>Alianza Jurídica · judicial-branch API integration</sub>
-
-**Why I'm proud:** I took the system the firm used every day and rebuilt it from scratch, owning it end to end: architecture, backend, frontend, security, tests, deployment and production operations. The key piece was integrating Colombia's judicial-branch case-lookup API (CPNU), a public but undocumented API: search by case number, case detail and paginated proceedings, with de-duplication, fault tolerance and controlled timeouts. What used to be a manual, case-by-case lookup now imports itself. All backed by 116 automated tests.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🥈 POS system for small businesses
-<sub>Commercial product</sub>
-
-**Why I'm proud:** this is the system where I made the most architecture decisions with the long term in mind. A modular monolith; an immutable ledger for stock and accounting movements, where every movement is recorded and nothing is overwritten; and idempotency on every state-changing operation. The point of sale is an offline-first PWA: the register keeps selling when the internet goes down and, once the connection is back, syncs without duplicating anything. It also handles cash control and peripherals over Web Serial, WebUSB and Web Bluetooth.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Web Serial · USB · Bluetooth](https://img.shields.io/badge/Web%20Serial%20%C2%B7%20USB%20%C2%B7%20Bluetooth-14B8A6?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🥉 RecetarioVEG
-<sub>📂 <a href="https://github.com/JuanLesmes/RecetarioVEG">View repo</a> · Vegan & vegetarian recipe app</sub>
-
-**Why I'm proud:** a personal project that solves an everyday problem: what to cook with what you already have. 121 vegan and vegetarian recipes made for Colombia, with ingredients as you'd ask for them at the market, a search by what's in your fridge, a shopping list and a weekly planner. The code is public on GitHub.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📍 Now
