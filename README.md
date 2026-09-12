@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a18,40:ffb347,75:ff3d77,100:7b2ff7&height=170&section=header&animation=fadeIn" width="100%" alt=""/>
+<img src="assets/banner.svg" width="100%" alt="Juan Fernando Lesmes · Backend Developer"/>
 
 # Juan Fernando Lesmes Castañeda
 
@@ -8,17 +8,17 @@
 
 **Ingeniero de Sistemas · Backend Developer · Bogotá, Colombia**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF7A18&center=true&vCenter=true&width=760&height=48&lines=Construyo+software+de+principio+a+fin;I+build+software+end+to+end%2C+from+problem+to+production;Soluciones+que+generan+impacto+real;POS+%C2%B7+Procesos+jur%C3%ADdicos+%C2%B7+Web+apps;Python+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+PostgreSQL" alt="Construyo software de principio a fin"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=760&height=48&lines=Construyo+software+de+principio+a+fin;I+build+software+end+to+end%2C+from+problem+to+production;Soluciones+que+generan+impacto+real;POS+%C2%B7+Procesos+jur%C3%ADdicos+%C2%B7+Web+apps;Python+%C2%B7+FastAPI+%C2%B7+TypeScript+%C2%B7+PostgreSQL" alt="Construyo software de principio a fin"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/juanlesmes777"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:juanfernandolesmescastaneda@gmail.com"><img src="https://img.shields.io/badge/Email-FF7A18?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:juanfernandolesmescastaneda@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-<a href="https://github.com/JuanLesmes?tab=repositories"><img src="https://img.shields.io/badge/Repos-FF3D77?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/></a>
+<a href="https://github.com/JuanLesmes?tab=repositories"><img src="https://img.shields.io/badge/Repos-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=JuanLesmes&style=for-the-badge&color=ffb347&label=VISITAS" alt="Visitas al perfil"/>
+<img src="https://komarev.com/ghpvc/?username=JuanLesmes&style=for-the-badge&color=2dd4bf&label=VISITAS" alt="Visitas al perfil"/>
 
 <br/><br/>
 
@@ -26,7 +26,8 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7a18,50:ff3d77,100:7b2ff7&height=3" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ## 🧭 Sobre mí · About me
 
 ```bash
@@ -49,7 +50,7 @@ Ingeniero de Sistemas. Lo que más me gusta es construir soluciones para problem
 
 *Software Engineer. What I enjoy most is building solutions to real-life problems and following the whole process end to end: understanding the problem, designing the architecture and choosing the tools, building the solution and taking it to production. I like software that is fast to use, easy to maintain, and keeps working when the internet goes down.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7a18,50:ff3d77,100:7b2ff7&height=3" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧰 Stack
 
@@ -68,7 +69,7 @@ Ingeniero de Sistemas. Lo que más me gusta es construir soluciones para problem
 | ☁️ **Cloud** | AWS · Azure |
 | 🧩 Métodos · Methods | Scrum · Kanban · Jira |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7a18,50:ff3d77,100:7b2ff7&height=3" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🏆 Proyectos de los que estoy orgulloso · Projects I'm proud of
 
@@ -101,7 +102,7 @@ Ingeniero de Sistemas. Lo que más me gusta es construir soluciones para problem
 
 *<b>Why I'm proud:</b> this is the system where I made the most architecture decisions with the long term in mind. A modular monolith; an immutable ledger for stock and accounting movements, where every movement is recorded and nothing is overwritten; and idempotency on every state-changing operation. The point of sale is an offline-first PWA: the register keeps selling when the internet goes down and, once the connection is back, syncs without duplicating anything. It also handles cash control and peripherals over Web Serial, WebUSB and Web Bluetooth.*
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Web Serial · USB · Bluetooth](https://img.shields.io/badge/Web%20Serial%20%C2%B7%20USB%20%C2%B7%20Bluetooth-FF7A18?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Web Serial · USB · Bluetooth](https://img.shields.io/badge/Web%20Serial%20%C2%B7%20USB%20%C2%B7%20Bluetooth-14B8A6?style=flat-square)
 
 </td>
 </tr>
@@ -129,34 +130,34 @@ Ingeniero de Sistemas. Lo que más me gusta es construir soluciones para problem
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7a18,50:ff3d77,100:7b2ff7&height=3" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📍 Ahora · Now
 
-- 💼 Desarrollador Junior en **Inetum**· *Junior Developer at Inetum*
+- 💼 Desarrollador Junior en **Inetum** · *Junior Developer at Inetum*
 - 🚀 Construyendo soluciones que generen impacto real en negocios y personas · *Building solutions that make a real impact on businesses and people*
 - 📚 Aprendiendo: agentes de IA con LangGraph y Amazon Bedrock · *Learning: AI agents with LangGraph and Amazon Bedrock*
 - 🤝 Abierto a roles backend y full-stack · *Open to backend and full-stack roles*
 - 📬 Escríbeme · *Reach out:* [juanfernandolesmescastaneda@gmail.com](mailto:juanfernandolesmescastaneda@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7a18,50:ff3d77,100:7b2ff7&height=3" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JuanLesmes&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ffb347&icon_color=ff7a18&text_color=c9d1d9&rank_icon=github">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JuanLesmes&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=ff7a18&icon_color=ff3d77&text_color=24292f&rank_icon=github">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JuanLesmes&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JuanLesmes&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=0f766e&icon_color=0ea5e9&text_color=24292f&rank_icon=github">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLesmes&layout=compact&hide=tex&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffb347&text_color=c9d1d9">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLesmes&layout=compact&hide=tex&langs_count=8&hide_border=true&bg_color=ffffff&title_color=ff7a18&text_color=24292f">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLesmes&layout=compact&hide=tex&langs_count=8&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLesmes&layout=compact&hide=tex&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0f766e&text_color=24292f">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JuanLesmes&hide_border=true&background=0d1117&ring=ff7a18&fire=ff3d77&currStreakLabel=ffb347&currStreakNum=ffffff&sideLabels=ffb347&sideNums=ffffff&dates=8b949e">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=JuanLesmes&hide_border=true&background=ffffff&ring=ff7a18&fire=ff3d77&currStreakLabel=ff7a18&currStreakNum=24292f&sideLabels=ff7a18&sideNums=24292f&dates=57606a">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JuanLesmes&hide_border=true&background=0d1117&ring=14b8a6&fire=22d3ee&currStreakLabel=2dd4bf&currStreakNum=ffffff&sideLabels=2dd4bf&sideNums=ffffff&dates=8b949e">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=JuanLesmes&hide_border=true&background=ffffff&ring=0f766e&fire=0ea5e9&currStreakLabel=0f766e&currStreakNum=24292f&sideLabels=0f766e&sideNums=24292f&dates=57606a">
 </picture>
 
 ### 🐍 Contribuciones · Contributions
@@ -174,6 +175,6 @@ Ingeniero de Sistemas. Lo que más me gusta es construir soluciones para problem
 
 <sub>Hecho con ♡ en Bogotá · <i>Made with ♡ in Bogotá</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,25:ff3d77,60:ffb347,100:ff7a18&height=120&section=footer&animation=twinkling" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 </div>
