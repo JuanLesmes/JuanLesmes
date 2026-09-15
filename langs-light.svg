@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="419" height="189" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#0f766e">Most used languages</text>
+<rect x="24" y="52" width="372" height="10" rx="5" fill="#e6fffb"/>
+<rect x="24.0" y="52" width="158.2" height="10" fill="#3178c6"><animate attributeName="width" values="0;158.2" dur="0.9s" fill="freeze"/></rect>
+<rect x="182.2" y="52" width="134.7" height="10" fill="#3572A5"><animate attributeName="width" values="0;134.7" dur="0.9s" fill="freeze"/></rect>
+<rect x="317.0" y="52" width="23.1" height="10" fill="#f1e05a"><animate attributeName="width" values="0;23.1" dur="0.9s" fill="freeze"/></rect>
+<rect x="340.1" y="52" width="21.4" height="10" fill="#e34c26"><animate attributeName="width" values="0;21.4" dur="0.9s" fill="freeze"/></rect>
+<rect x="361.5" y="52" width="15.8" height="10" fill="#663399"><animate attributeName="width" values="0;15.8" dur="0.9s" fill="freeze"/></rect>
+<rect x="377.3" y="52" width="13.7" height="10" fill="#c6538c"><animate attributeName="width" values="0;13.7" dur="0.9s" fill="freeze"/></rect>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.231;1" dur="0.65s" fill="freeze"/><circle cx="30" cy="84" r="6" fill="#3178c6"/><text x="44" y="88" font-size="13.5" fill="#24292f">TypeScript</text><text x="192" y="88" font-size="13.5" font-weight="700" fill="#24292f" text-anchor="end">42.5%</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.315;1" dur="0.73s" fill="freeze"/><circle cx="230" cy="84" r="6" fill="#3572A5"/><text x="244" y="88" font-size="13.5" fill="#24292f">Python</text><text x="392" y="88" font-size="13.5" font-weight="700" fill="#24292f" text-anchor="end">36.2%</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.383;1" dur="0.81s" fill="freeze"/><circle cx="30" cy="114" r="6" fill="#f1e05a"/><text x="44" y="118" font-size="13.5" fill="#24292f">JavaScript</text><text x="192" y="118" font-size="13.5" font-weight="700" fill="#24292f" text-anchor="end">6.2%</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.438;1" dur="0.89s" fill="freeze"/><circle cx="230" cy="114" r="6" fill="#e34c26"/><text x="244" y="118" font-size="13.5" fill="#24292f">HTML</text><text x="392" y="118" font-size="13.5" font-weight="700" fill="#24292f" text-anchor="end">5.8%</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.485;1" dur="0.97s" fill="freeze"/><circle cx="30" cy="144" r="6" fill="#663399"/><text x="44" y="148" font-size="13.5" fill="#24292f">CSS</text><text x="192" y="148" font-size="13.5" font-weight="700" fill="#24292f" text-anchor="end">4.2%</text></g>
+<g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.524;1" dur="1.05s" fill="freeze"/><circle cx="230" cy="144" r="6" fill="#c6538c"/><text x="244" y="148" font-size="13.5" fill="#24292f">SCSS</text><text x="392" y="148" font-size="13.5" font-weight="700" fill="#24292f" text-anchor="end">3.7%</text></g>
+</svg>
